@@ -1,1 +1,70 @@
-# TIL
+# 📚 TIL (Today I Learned)
+
+> 매일 배운 내용을 기록하고 정리하는 저장소입니다.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeHonggii%2FTIL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## 🎯 목표
+- 매일 학습한 내용을 체계적으로 정리
+- 지속적인 성장과 발전
+- 나중에 쉽게 찾아볼 수 있는 개인 지식 저장소 구축
+
+## 📂 카테고리별 정리
+
+### 🦜 LangChain
+LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
+
+| 제목 | 설명 | 날짜 |
+|------|------|------|
+| [LangChain Runnable Components](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/LangChain_Runnable_Components.ipynb) | Runnable 컴포넌트의 기본 개념과 활용법 | - |
+| [LCEL Interface Methods](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/LCEL_Interface_Methods.ipynb) | LangChain Expression Language 인터페이스 메소드 | - |
+| [RunnableLambda와 PromptTemplate 활용법](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/RunnableLambda_and_PromptTemplate.ipynb) | RunnableLambda로 함수 통합 및 PromptTemplate 활용 | 2025-01-09 |
+
+### 🔜 Coming Soon
+- **Java** - Java 프로그래밍 관련 내용
+- **Spring** - Spring Framework 학습 내용
+- **Python** - Python 프로그래밍 및 라이브러리
+- **Algorithm** - 알고리즘 및 자료구조
+- **Database** - 데이터베이스 관련 학습
+
+## 📅 최근 업데이트
+
+### 2025년 1월
+- **2025-01-09**: LangChain RunnableLambda와 PromptTemplate 학습
+  - RunnableLambda를 사용한 함수 통합
+  - itemgetter를 활용한 딕셔너리 처리
+  - PromptTemplate의 다양한 활용법
+  - partial_variables를 사용한 동적 프롬프트 생성
+
+## 🛠️ 기술 스택
+현재 학습 중인 주요 기술들:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## 📝 작성 규칙
+1. **매일 꾸준히** - 작은 내용이라도 매일 기록
+2. **카테고리별 정리** - 주제별로 폴더를 나누어 체계적으로 관리
+3. **실습 코드 포함** - 이론과 함께 실제 동작하는 코드 예제 포함
+4. **Jupyter Notebook 활용** - 코드와 설명을 함께 볼 수 있도록 .ipynb 형식 사용
+
+## 🌟 학습 철학
+> "작은 걸음이 모여 큰 여정이 된다"
+
+매일 조금씩이라도 새로운 것을 배우고, 배운 것을 정리하며 성장합니다.
+
+## 📊 통계
+- 총 학습 일수: 진행 중
+- 작성된 문서: 3개
+- 다룬 주제: 1개 (LangChain)
+
+## 🔗 유용한 링크
+- [LangChain 공식 문서](https://python.langchain.com/docs/get_started/introduction)
+
+---
+
+### 💬 Contact
+질문이나 제안사항이 있으시면 언제든 연락주세요!
+
+⭐ 이 저장소가 도움이 되었다면 Star를 눌러주세요!
