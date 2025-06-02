@@ -14,8 +14,8 @@
 ### 🦜 LangChain
 LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 
-| 제목 | 설명 | 날짜 |
-|------|------|------|
+| 제목 | 설명 | 
+|------|------|
 | [LangChain Runnable Components](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/LangChain_Runnable_Components.ipynb) | Runnable 컴포넌트의 기본 개념과 활용법 |
 | [LCEL Interface Methods](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/LCEL_Interface_Methods.ipynb) | LangChain Expression Language 인터페이스 메소드 |
 | [RunnableLambda와 PromptTemplate 활용법](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/RunnableLambda_and_PromptTemplate.ipynb) | RunnableLambda로 함수 통합 및 PromptTemplate 활용 |
