@@ -21,7 +21,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [RunnableLambda와 PromptTemplate 활용법](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/RunnableLambda_and_PromptTemplate.ipynb) | RunnableLambda로 함수 통합 및 PromptTemplate 활용 |
 | [Prompt Templates and Hub](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Prompt_Templates_and_Hub.ipynb) | YAML 기반 템플릿, ChatPromptTemplate, MessagePlaceholder, FewShot 프롬프트, Example Selector, LangChain Hub 활용법 |
 | [RAG Basic](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/RAG_Basic.ipynb) | PDF 문서 로드, 텍스트 분할, 임베딩, 벡터 저장, 검색기를 활용한 RAG 구현 |
-| [Output Parsers - PydanticOutputParser](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Output_Parsers_PydanticOutputParser.ipynb) | LLM 출력을 구조화된 형태로 변환하는 PydanticOutputParser 활용법 |
+| [Output Parsers - PydanticOutputParser](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Output_parsers.ipynb) | LLM 출력을 구조화된 형태로 변환하는 PydanticOutputParser 활용법 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
