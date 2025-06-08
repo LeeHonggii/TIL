@@ -21,6 +21,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [RunnableLambda와 PromptTemplate 활용법](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/RunnableLambda_and_PromptTemplate.ipynb) | RunnableLambda로 함수 통합 및 PromptTemplate 활용 |
 | [Prompt Templates and Hub](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Prompt_Templates_and_Hub.ipynb) | YAML 기반 템플릿, ChatPromptTemplate, MessagePlaceholder, FewShot 프롬프트, Example Selector, LangChain Hub 활용법 |
 | [RAG Basic](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/RAG_Basic.ipynb) | PDF 문서 로드, 텍스트 분할, 임베딩, 벡터 저장, 검색기를 활용한 RAG 구현 |
+| [Output Parsers - PydanticOutputParser](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Output_Parsers_PydanticOutputParser.ipynb) | LLM 출력을 구조화된 형태로 변환하는 PydanticOutputParser 활용법 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
@@ -28,15 +29,6 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 - **Python** - Python 프로그래밍 및 라이브러리
 - **Algorithm** - 알고리즘 및 자료구조
 - **Database** - 데이터베이스 관련 학습
-
-## 📅 최근 업데이트
-
-### 2025년 1월
-- **2025-01-09**: LangChain RunnableLambda와 PromptTemplate 학습
-  - RunnableLambda를 사용한 함수 통합
-  - itemgetter를 활용한 딕셔너리 처리
-  - PromptTemplate의 다양한 활용법
-  - partial_variables를 사용한 동적 프롬프트 생성
 
 ## 🛠️ 기술 스택
 현재 학습 중인 주요 기술들:
