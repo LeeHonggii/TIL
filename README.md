@@ -23,6 +23,8 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [RAG Basic](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/RAG_Basic.ipynb) | PDF 문서 로드, 텍스트 분할, 임베딩, 벡터 저장, 검색기를 활용한 RAG 구현 |
 | [Output Parsers - PydanticOutputParser](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Output_parsers.ipynb) | LLM 출력을 구조화된 형태로 변환하는 PydanticOutputParser 활용법 |
 | [CommaSeparatedListOutputParser 활용법](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/CommaSeparatedListOutputParser.ipynb) | LLM 출력을 쉼표로 구분된 리스트 형태로 파싱하는 방법 |
+| [JsonOutputParser 활용법](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/StructuredOutputParser_and_JsonOutputParser.ipynb) | 딕셔너리 형태의 구조화된 출력을 위한 StructuredOutputParser와 JSON 스키마 기반 JsonOutputParser 사용법 |
+| [FrameOutputParser](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/DataFrameOutputParserr.ipynb) | DataFrame 쿼리, 날짜시간 파싱, Enum 값 파싱을 위한 특수 OutputParser 활용법 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
