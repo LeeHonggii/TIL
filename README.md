@@ -25,6 +25,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [CommaSeparatedListOutputParser 활용법](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/CommaSeparatedListOutputParser.ipynb) | LLM 출력을 쉼표로 구분된 리스트 형태로 파싱하는 방법 |
 | [JsonOutputParser 활용법](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/JsonOutputParser.ipynb) | 딕셔너리 형태의 구조화된 출력을 위한 StructuredOutputParser와 JSON 스키마 기반 JsonOutputParser 사용법 |
 | [FrameOutputParser](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/DataFrameOutputParser.ipynb) | DataFrame 쿼리, 날짜시간 파싱, Enum 값 파싱을 위한 특수 OutputParser 활용법 |
+| [LLM Models and Caching](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/LLM_Models.ipynb) | OpenAI, Anthropic, Cohere 등 다양한 LLM 모델 활용법과 캐싱 기능 구현 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
