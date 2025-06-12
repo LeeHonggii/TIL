@@ -27,6 +27,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [FrameOutputParser](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/DataFrameOutputParser.ipynb) | DataFrame 쿼리, 날짜시간 파싱, Enum 값 파싱을 위한 특수 OutputParser 활용법 |
 | [LLM Models and Caching](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/LLM_Models.ipynb) | OpenAI, Anthropic, Cohere 등 다양한 LLM 모델 활용법과 캐싱 기능 구현 |
 | [Model Serialization and Chain Storage](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Model_Serialization.ipynb) | LangChain 모델과 체인의 직렬화(dumps, dumpd) 및 저장(pickle, json) 방법 |
+| [ChatOllama 로컬 LLM 활용법](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/ChatOllama_Local_LLM_Tutorial.ipynb) | Ollama를 사용한 로컬 LLM 구동 및 멀티모달 모델 활용 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
