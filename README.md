@@ -32,6 +32,8 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [LCEL Memory Integration](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/LCEL_Memory.ipynb) | LCEL 체인에 ConversationBufferMemory를 통합하여 대화 내용을 기억하는 방법 |
 | [SQLChatMessageHistory Tutorial](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/SQLChatMessageHistory_Tutorial.ipynb) | SQLAlchemy를 활용한 데이터베이스 기반 대화 기록 저장 및 다중 사용자/세션 관리 |
 | [PDF Document Loaders](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/PDF_Document_Loaders.ipynb) | PyPDF, PyMuPDF, Unstructured, PyPDFium2 등 다양한 PDF 로더의 특징과 활용법 |
+| [CSV Document Loaders](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/CSV_Document_Loaders.ipynb) | CSVLoader, UnstructuredCSVLoader, DataFrameLoader를 활용한 CSV 파일 처리 방법 |
+
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
