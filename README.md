@@ -37,7 +37,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [DirectoryLoader로 디렉토리 문서 로드하기](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/DirectoryLoader_Tutorial.ipynb) | DirectoryLoader를 사용한 디렉토리 파일 일괄 로드, 와일드카드 패턴, 커스텀 로더 클래스 활용법 |
 | [UpstageLayoutAnalysisLoader로 문서 레이아웃 분석](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/UpstageLayoutAnalysisLoader_Tutorial.ipynb) | Upstage AI의 문서 레이아웃 분석 도구를 활용한 구조적 문서 분석 및 OCR 처리 |
 | [LlamaParser로 고급 문서 파싱](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/LlamaParser_Document_Parsing.ipynb) | LlamaIndex의 LlamaParse를 활용한 고급 문서 파싱, 멀티모달 모델 활용, 맞춤형 파싱 지시 |
-
+| [RecursiveCharacterTextSplitter로 텍스트 청크 분할](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/RecursiveCharacterTextSplitter_Tutorial.ipynb) | RecursiveCharacterTextSplitter를 사용한 의미론적 텍스트 분할, 청크 크기 및 중복 설정 방법 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
