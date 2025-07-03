@@ -39,7 +39,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [LlamaParser로 고급 문서 파싱](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/LlamaParser_Document_Parsing.ipynb) | LlamaIndex의 LlamaParse를 활용한 고급 문서 파싱, 멀티모달 모델 활용, 맞춤형 파싱 지시 |
 | [RecursiveCharacterTextSplitter로 텍스트 청크 분할](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/RecursiveCharacterTextSplitter_Tutorial.ipynb) | RecursiveCharacterTextSplitter를 사용한 의미론적 텍스트 분할, 청크 크기 및 중복 설정 방법 |
 | [Token-based Text Splitters](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Text_Splitters_Token_Based.ipynb) | TokenTextSplitter, SentenceTransformers, spaCy, NLTK, KoNLPy, Hugging Face tokenizer를 활용한 토큰 기반 텍스트 분할 방법 |
-
+| [SemanticChunker로 의미론적 텍스트 분할](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/SemanticChunker_Text_Splitting.ipynb) | 의미론적 유사성 기반 텍스트 분할, Percentile/Standard Deviation/Interquartile 분할 방식 비교 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
