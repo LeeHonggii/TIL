@@ -41,6 +41,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [Token-based Text Splitters](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Text_Splitters_Token_Based.ipynb) | TokenTextSplitter, SentenceTransformers, spaCy, NLTK, KoNLPy, Hugging Face tokenizer를 활용한 토큰 기반 텍스트 분할 방법 |
 | [SemanticChunker로 의미론적 텍스트 분할](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/SemanticChunker_Text_Splitting.ipynb) | 의미론적 유사성 기반 텍스트 분할, Percentile/Standard Deviation/Interquartile 분할 방식 비교 |
 | [Code Text Splitters로 프로그래밍 언어별 코드 분할](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Code_Text_Splitters.ipynb) | RecursiveCharacterTextSplitter를 활용한 Python, JS, TS, Markdown, LaTeX, HTML, Solidity, C# 등 다양한 프로그래밍 언어별 코드 분할 방법 |
+| [MarkdownHeaderTextSplitter로 마크다운 문서 구조적 분할](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/MarkdownHeaderTextSplitter.ipynb) | 마크다운 헤더 기준 텍스트 분할, 헤더 메타데이터 보존, RecursiveCharacterTextSplitter와 결합한 계층적 분할 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
