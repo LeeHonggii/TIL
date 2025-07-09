@@ -43,6 +43,8 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [Code Text Splitters로 프로그래밍 언어별 코드 분할](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Code_Text_Splitters.ipynb) | RecursiveCharacterTextSplitter를 활용한 Python, JS, TS, Markdown, LaTeX, HTML, Solidity, C# 등 다양한 프로그래밍 언어별 코드 분할 방법 |
 | [MarkdownHeaderTextSplitter로 마크다운 문서 구조적 분할](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/MarkdownHeaderTextSplitter.ipynb) | 마크다운 헤더 기준 텍스트 분할, 헤더 메타데이터 보존, RecursiveCharacterTextSplitter와 결합한 계층적 분할 |
 | [HTMLHeaderTextSplitter로 HTML 문서 구조적 분할](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/HTMLHeaderTextSplitter_Tutorial.ipynb) | HTML 헤더 태그 기반 구조적 텍스트 분할, 메타데이터 보존, 웹 URL 처리 및 다른 splitter와의 파이프라인 연결 |
+| [OpenAI Embeddings Tutorial](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/OpenAI_Embeddings_Tutorial.ipynb) | OpenAI 임베딩 모델을 활용한 텍스트 벡터화, 차원 설정, 유사도 계산 방법 |
+
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
