@@ -45,6 +45,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [HTMLHeaderTextSplitter로 HTML 문서 구조적 분할](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/HTMLHeaderTextSplitter_Tutorial.ipynb) | HTML 헤더 태그 기반 구조적 텍스트 분할, 메타데이터 보존, 웹 URL 처리 및 다른 splitter와의 파이프라인 연결 |
 | [OpenAI Embeddings Tutorial](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/OpenAI_Embeddings_Tutorial.ipynb) | OpenAI 임베딩 모델을 활용한 텍스트 벡터화, 차원 설정, 유사도 계산 방법 |
 | [CacheBackedEmbeddings로 임베딩 캐싱하기](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/CacheBackedEmbeddings_Tutorial.ipynb) | LocalFileStore와 InMemoryByteStore를 활용한 임베딩 캐싱으로 재계산 방지 및 성능 향상 |
+| [HuggingFace Embeddings](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/HuggingFace_Embeddings.ipynb) | HuggingFace 임베딩 모델 활용법 |
 
 
 ### 🔜 Coming Soon
