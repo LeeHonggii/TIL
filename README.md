@@ -47,6 +47,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [CacheBackedEmbeddings로 임베딩 캐싱하기](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/CacheBackedEmbeddings_Tutorial.ipynb) | LocalFileStore와 InMemoryByteStore를 활용한 임베딩 캐싱으로 재계산 방지 및 성능 향상 |
 | [HuggingFace Embeddings](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/HuggingFace_Embeddings.ipynb) | HuggingFace 임베딩 모델 활용법 |
 | [HuggingFace Embeddings Model](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/HuggingFace_Embeddings_model.ipynb) | HuggingFace의 다양한 임베딩 모델 활용법 (Endpoint, Local, BGE-M3, FlagEmbedding) |
+| [Upstage Embeddings Tutorial](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Upstage_Embeddings.ipynb) | Upstage의 Solar 임베딩 모델(Query/Passage)을 활용한 한국어 텍스트 임베딩 및 유사도 계산 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
