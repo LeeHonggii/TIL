@@ -52,6 +52,8 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [Chroma VectorStore Tutorial](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Chroma_VectorStore.ipynb) | Chroma 벡터 데이터베이스 활용법 - 문서 저장, 검색, 필터링, 다양한 Retriever 설정 |
 | [FAISS VectorStore Tutorial](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/FAISS_VectorStore.ipynb) | FAISS 벡터 데이터베이스 활용법 - 벡터 저장소 생성, 문서 추가/삭제, 유사도 검색, 저장/로드, 다양한 Retriever 설정 |
 | [Pinecone VectorStore와 HybridSearch 구현](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Pinecone_VectorStore.ipynb) | Pinecone 벡터 데이터베이스 활용법 - 인덱스 생성, Sparse Encoder(BM25), 하이브리드 검색, 메타데이터 필터링 |
+| [VectorStore-backed Retriever 활용법](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/VectorStore_Backed_Retriever.ipynb) | 벡터스토어 기반 검색기 구현 - similarity search, MMR, score threshold, 동적 설정(ConfigurableField), Query/Passage 분리 임베딩 |
+| [ContextualCompressionRetriever로 검색 결과 압축하기](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/ContextualCompressionRetriever.ipynb) | 검색된 문서의 맥락적 압축을 통한 관련성 향상 - LLMChainExtractor, LLMChainFilter, EmbeddingsFilter, DocumentCompressorPipeline 활용법 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
