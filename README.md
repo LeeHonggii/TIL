@@ -54,6 +54,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [Pinecone VectorStore와 HybridSearch 구현](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Pinecone_VectorStore.ipynb) | Pinecone 벡터 데이터베이스 활용법 - 인덱스 생성, Sparse Encoder(BM25), 하이브리드 검색, 메타데이터 필터링 |
 | [VectorStore-backed Retriever 활용법](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/VectorStore_Backed_Retriever.ipynb) | 벡터스토어 기반 검색기 구현 - similarity search, MMR, score threshold, 동적 설정(ConfigurableField), Query/Passage 분리 임베딩 |
 | [ContextualCompressionRetriever로 검색 결과 압축하기](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/ContextualCompressionRetriever.ipynb) | 검색된 문서의 맥락적 압축을 통한 관련성 향상 - LLMChainExtractor, LLMChainFilter, EmbeddingsFilter, DocumentCompressorPipeline 활용법 |
+| [EnsembleRetriever로 하이브리드 검색 구현](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Ensemble_Retriever_Hybrid_Search.ipynb) | BM25와 FAISS를 결합한 앙상블 검색기 구현, Reciprocal Rank Fusion 알고리즘 활용, 동적 가중치 설정 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
