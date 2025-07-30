@@ -57,6 +57,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [EnsembleRetriever로 하이브리드 검색 구현](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Ensemble_Retriever_Hybrid_Search.ipynb) | BM25와 FAISS를 결합한 앙상블 검색기 구현, Reciprocal Rank Fusion 알고리즘 활용, 동적 가중치 설정 |
 | [LongContextReorder로 문서 재정렬 최적화](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/LongContextReorder_Document_Reordering.ipynb) | LongContextReorder를 활용한 긴 문맥에서의 문서 순서 재배열로 검색 성능 향상 |
 | [ParentDocumentRetriever로 계층적 문서 검색](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/ParentDocumentRetriever.ipynb) | ParentDocumentRetriever를 활용한 계층적 문서 분할 및 검색 - 작은 청크로 검색하고 큰 청크로 반환하는 전략 |
+| [MultiQueryRetriever로 다각도 검색 구현](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/MultiQueryRetriever.ipynb) | LLM을 활용한 다중 쿼리 생성으로 벡터 검색 성능 향상 - 자동 쿼리 변형, LCEL 체인 커스터마이징 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
