@@ -61,6 +61,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [MultiVectorRetriever로 다중 벡터 검색 구현](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/MultiVectorRetriever.ipynb) | MultiVectorRetriever를 활용한 다중 벡터 저장 및 검색 - Chunk 분할, 요약본 저장, 가설 쿼리 생성 |
  | [SelfQueryRetriever로 메타데이터 기반 자동 필터링](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/SelfQueryRetriever.ipynb) | 자연어 질의를 구조화된 쿼리로 변환하여 메타데이터 필터링을 자동으로 수행하는 SelfQueryRetriever 활용법 |
 | [TimeWeightedVectorStoreRetriever로 시간 가중 검색 구현](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/TimeWeightedVectorStoreRetriever.ipynb) | 시간 가중치를 적용한 벡터 검색 - 의미론적 유사성과 시간 감쇠를 결합, decay_rate 조정, mock_now를 활용한 시간 시뮬레이션 |
+| [CrossEncoder Reranker로 검색 결과 재순위화](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/CrossEncoder_Reranker.ipynb) | Cross Encoder를 활용한 검색 결과 재순위화 - HuggingFace CrossEncoder 모델(BAAI/bge-reranker-v2-m3)을 사용한 고정밀 문서 순위 재조정 |
 
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
