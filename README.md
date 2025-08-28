@@ -65,6 +65,13 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 | [Cohere Reranker로 검색 결과 재정렬](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/Cohere_Reranker.ipynb) | Cohere의 다국어 재정렬 모델을 활용한 검색 결과 품질 향상 - ContextualCompressionRetriever와 CohereRerank 결합 |
 | [FlashRank Reranker로 문서 재순위화](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangChain/FlashRank_Reranker_Document_Compression.ipynb) | FlashRank를 활용한 초경량 문서 재순위화 및 ContextualCompressionRetriever와의 통합 |
 
+### 🔷 LangGraph
+LangGraph 프레임워크를 활용한 상태 기반 AI 애플리케이션 개발을 학습합니다.
+
+| 제목 | 설명 | 
+|------|------|
+| [LangGraph QuickStart Tutorial (Part 1-2)](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangGraph/LangGraph_Simple.ipynb) | LangGraph 입문자를 위한 실전 튜토리얼 - Part 1: 기본 챗봇 구축 (StateGraph, Node, Edge), Part 2: 도구(Tools) 추가 및 조건부 라우팅 |
+
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
 - **Spring** - Spring Framework 학습 내용
@@ -78,6 +85,7 @@ LangChain 프레임워크와 관련된 학습 내용을 정리합니다.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2B579A?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 📝 작성 규칙
 1. **매일 꾸준히** - 작은 내용이라도 매일 기록
