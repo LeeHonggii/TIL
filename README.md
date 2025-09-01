@@ -72,7 +72,7 @@ LangGraph 프레임워크를 활용한 상태 기반 AI 애플리케이션 개�
 |------|------|
 | [LangGraph QuickStart Tutorial (Part 1-2)](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangGraph/LangGraph_Simple.ipynb) | LangGraph 입문자를 위한 실전 튜토리얼 - Part 1: 기본 챗봇 구축 (StateGraph, Node, Edge), Part 2: 도구(Tools) 추가 및 조건부 라우팅 |
 | [LangGraph Memory & Human-in-the-Loop (Part 3-4)](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangGraph/LangGraph_Memory_HITL.ipynb) | Part 3: 메모리 추가 (Checkpointer, Thread ID, 장기 기억), Part 4: Human-in-the-Loop (interrupt, 승인 워크플로우) |
-
+| [LangGraph Custom State & Time Travel (Part 5-6)](https://github.com/LeeHonggii/TIL/tree/main/By-Topic/LangGraph/LangGraph_Custom_State_TimeTravel.ipynb) | Part 5: 상태 커스터마이징 (Custom State Fields, Tool-based State Updates), Part 6: 상태 이력 관리 (Checkpoint History, Rollback, Resume) |
 ### 🔜 Coming Soon
 - **Java** - Java 프로그래밍 관련 내용
 - **Spring** - Spring Framework 학습 내용
